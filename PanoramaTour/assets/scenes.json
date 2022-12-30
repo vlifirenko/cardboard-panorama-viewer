@@ -1,0 +1,10 @@
+{
+  "scenes": [
+    { "id": "id0", "name": "room 1", "img": "hall", "rotation": 45, "markers": [
+      {"angles": [54, 0], "scene": "id1"},
+      {"angles": [207, 0], "scene": "id2"}
+    ]},
+    { "id": "id1", "name": "room 2", "img": "diningroom", "rotation": 45, "markers": [{"angles": [17, 0], "scene": "id1"}], "rotation" : 90},
+    { "id": "id2", "name": "room 3", "img": "badroom", "markers": [{"angles": [193, 0], "scene": "id1"}], "rotation" : 45}
+  ]
+}

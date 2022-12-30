@@ -1,0 +1,14 @@
+RajawaliVRExample/bin/
+RajawaliVRExample/gen/
+RajawaliVR/bin/
+RajawaliVR/gen/
+PanoramaTour/bin/
+PanoramaTour/gen/
+Rajawali/.settings/
+*.log
+.metadata/
+PanoramaTour/.settings/
+PanoramaTour/.apt_generated/
+PanoramaTourTest/bin/
+PanoramaTourTest/gen/
+PanoramaTourTest/.settings/

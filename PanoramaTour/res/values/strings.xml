@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GoldenKeys</string>
+    <string name="vr_mode">VR Режим</string>
+    <string name="start">Начать</string>
+
+</resources>
